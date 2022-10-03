@@ -14,7 +14,7 @@ BPify: a simplified Beyond Pricing API
 
 ## Intro
 
-The core concept of Beyond Pricing is a `Listing` - for example, an apartment on Airbnb or HomeAway.
+The core concept of a Listing Website is a `Listing` - for example, an apartment on Airbnb or HomeAway.
 
 The `Listing` entity carries a certain number of information about the property (title, market, etc) and has a `Calendar` to carry prices and availability. 
 
@@ -24,7 +24,7 @@ date=2020-01-01, price=500
 date=2020-01-02, price=450
 ```
 
-Additionally, in Beyond Pricing, we have the concept of a "Base Price". When we predict a price for a day, we think of it as a multiple of the base price. E.g. a price of $150 for a specific day is a 1.5x multiple on the base price of $100.
+Additionally, in a Listing Website, we have the concept of a "Base Price". When we predict a price for a day, we think of it as a multiple of the base price. E.g. a price of $150 for a specific day is a 1.5x multiple on the base price of $100.
 
 The challenge will work with a simplified version of the listing and the calendar.
 
