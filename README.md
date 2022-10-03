@@ -1,6 +1,3 @@
-BPify: a simplified Beyond Pricing API 
-
-
 ## Table of contents
 
 1. [Intro](#intro)
