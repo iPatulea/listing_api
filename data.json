@@ -1,0 +1,26 @@
+[
+  {
+    "market": "san-francisco",
+    "currency": "USD",
+    "host_name": "Goofy guy",
+    "title": "Better room",
+    "base_price": 340,
+    "id": 1
+  },
+  {
+    "market": "san-francisco",
+    "currency": "USD",
+    "host_name": "Goofy guy",
+    "title": "Better room",
+    "base_price": 228,
+    "id": 2
+  },
+  {
+    "host_name": "Goofy guy",
+    "market": "san-francisco",
+    "title": "Better room",
+    "currency": "USD",
+    "base_price": 340,
+    "id": 3
+  }
+]
